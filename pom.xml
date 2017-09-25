@@ -32,9 +32,9 @@
     <name>WSO2 API Manager - Aggregator Module</name>
 
     <scm>
-        <url>https://github.com/wso2/product-apim.git</url>
-        <developerConnection>scm:git:https://github.com/wso2/product-apim.git</developerConnection>
-        <connection>scm:git:https://github.com/wso2/product-apim.git</connection>
+        <url>https://github.com/denuwanthi/product-apim.git</url>
+        <developerConnection>scm:git:https://github.com/denuwanthi/product-apim.git</developerConnection>
+        <connection>scm:git:https://github.com/denuwanthi/product-apim.git</connection>
         <tag>HEAD</tag>
     </scm>
 
