@@ -182,6 +182,7 @@
     </dependencyManagement>
 
     <properties>
+        <gpg.skip>true</gpg.skip>
 	<carbon.apimgt.version>7.0.42</carbon.apimgt.version>
 	<product.apim.version>3.0.0-SNAPSHOT</product.apim.version>
         <!-- Maven plugins -->
